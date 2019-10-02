@@ -1,4 +1,5 @@
 package com.github.dmitry_mingazov.connect_four;
 
 public interface Controller {
+    void play();
 }
