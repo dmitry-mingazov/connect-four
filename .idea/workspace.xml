@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a2c9fc3-f445-43de-87ea-ba238c8a9ea6" name="Default Changelist" comment="improve project base">
+    <list default="true" id="2a2c9fc3-f445-43de-87ea-ba238c8a9ea6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Disc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Disc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,38 +33,14 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.56429654">
+    <splitter split-orientation="horizontal" split-proportion="0.4364599">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/BotPlayer.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/boards/StandardBoard.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+                <state relative-caret-position="187">
+                  <caret line="38" selection-start-line="38" selection-end-line="38" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -91,8 +60,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+                <state relative-caret-position="136">
+                  <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -103,11 +72,20 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/controllers/StandardController.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="226">
-                  <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+                <state relative-caret-position="153">
+                  <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="187">
+                  <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
                 </state>
               </provider>
             </entry>
@@ -137,8 +115,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+                <state relative-caret-position="153">
+                  <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -146,15 +124,39 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/models/StandardModel.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-102">
-                  <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+                <state relative-caret-position="226">
+                  <caret line="40" selection-start-line="40" selection-end-line="40" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#2893#2894#0" expanded="true" />
-                    <element signature="e#2937#2938#0" expanded="true" />
+                    <element signature="e#2390#2391#0" expanded="true" />
+                    <element signature="e#2429#2430#0" expanded="true" />
+                    <element signature="e#2768#2769#0" expanded="true" />
+                    <element signature="e#2801#2802#0" expanded="true" />
+                    <element signature="e#2849#2850#0" expanded="true" />
+                    <element signature="e#2894#2895#0" expanded="true" />
+                    <element signature="e#2941#2942#0" expanded="true" />
+                    <element signature="e#2985#2986#0" expanded="true" />
+                    <element signature="e#3048#3049#0" expanded="true" />
+                    <element signature="e#3101#3102#0" expanded="true" />
+                    <element signature="e#3146#3147#0" expanded="true" />
+                    <element signature="e#3206#3207#0" expanded="true" />
+                    <element signature="e#3253#3254#0" expanded="true" />
+                    <element signature="e#3290#3291#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/boards/StandardBoard.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1207">
+                  <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -165,9 +167,18 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="40" selection-start-line="40" selection-end-line="40" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/boards/StandardBoard.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1309">
+                <state relative-caret-position="1258">
                   <caret line="85" column="23" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -177,19 +188,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axis.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/BotStrategy.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+                <state relative-caret-position="85">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/views/ConsoleView.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/botStrategies/GreedyStrategy.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="580">
-                  <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+                <state relative-caret-position="238">
+                  <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -197,20 +208,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/StandardModelTest.java">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/views/ConsoleView.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="51">
-                  <caret line="3" selection-start-line="3" selection-end-line="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/StandardBoardTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                <state relative-caret-position="375">
+                  <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -222,7 +224,7 @@
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Model.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
-                  <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+                  <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
@@ -230,26 +232,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="8636">
-                  <caret line="541" column="18" selection-start-line="541" selection-start-column="18" selection-end-line="541" selection-end-column="18" />
+                <state relative-caret-position="102">
+                  <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
                 </state>
               </provider>
             </entry>
@@ -270,8 +254,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -283,27 +267,29 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Disc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Observer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/exceptions/IllegalMoveException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Direction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axis.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/View.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/BotPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Model.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/models/StandardModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/controllers/StandardController.java" />
         <option value="$PROJECT_DIR$/src/test/java/StandardModelTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StandardBoardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axis.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/boards/StandardBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/BotStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/models/StandardModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/BotPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/botStrategies/GreedyStrategy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/views/ConsoleView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java" />
       </list>
     </option>
   </component>
@@ -321,7 +307,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -364,6 +349,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="connect_four" type="462c0819:PsiDirectoryNode" />
               <item name="boards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="connect-four" type="b2602c69:ProjectViewProjectNode" />
+              <item name="connect-four" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="connect_four" type="462c0819:PsiDirectoryNode" />
+              <item name="botStrategies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="connect-four" type="b2602c69:ProjectViewProjectNode" />
@@ -427,6 +421,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -469,6 +464,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568451570922</updated>
     </task>
+    <task id="LOCAL-00001" summary="improve project base">
+      <created>1570001933927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570001933927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -484,7 +487,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31013617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -495,13 +498,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -519,6 +522,30 @@
     <MESSAGE value="improve project base" />
     <option name="LAST_COMMIT_MESSAGE" value="improve project base" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-wildcard-method">
+          <properties class="BotStrategies/GreedyStrategy.java" method="selectColumn">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/botStrategies/GreedyStrategy.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/botStrategies/GreedyStrategy.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -532,64 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/BotPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/exceptions/IllegalMoveException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,17 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8636">
-          <caret line="541" column="18" selection-start-line="541" selection-start-column="18" selection-end-line="541" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="206">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -648,27 +610,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Axis.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/controllers/StandardController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="153">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/exceptions/IllegalMoveException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/ConsoleMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/InteractivePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/boards/StandardBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="1207">
+          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/BotStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -681,25 +681,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/views/ConsoleView.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="591" column="40" selection-start-line="591" selection-start-column="40" selection-end-line="591" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/PlayerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/controllers/StandardController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/players/BotPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/botStrategies/GreedyStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/views/ConsoleView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -708,13 +749,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/models/StandardModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="226">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2893#2894#0" expanded="true" />
-            <element signature="e#2937#2938#0" expanded="true" />
+            <element signature="e#2390#2391#0" expanded="true" />
+            <element signature="e#2429#2430#0" expanded="true" />
+            <element signature="e#2768#2769#0" expanded="true" />
+            <element signature="e#2801#2802#0" expanded="true" />
+            <element signature="e#2849#2850#0" expanded="true" />
+            <element signature="e#2894#2895#0" expanded="true" />
+            <element signature="e#2941#2942#0" expanded="true" />
+            <element signature="e#2985#2986#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3101#3102#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3206#3207#0" expanded="true" />
+            <element signature="e#3253#3254#0" expanded="true" />
+            <element signature="e#3290#3291#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/dmitry_mingazov/connect_four/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="103" selection-start-line="11" selection-start-column="103" selection-end-line="11" selection-end-column="103" />
         </state>
       </provider>
     </entry>
