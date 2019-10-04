@@ -5,6 +5,9 @@ import com.github.dmitry_mingazov.connect_four.BotStrategy;
 import com.github.dmitry_mingazov.connect_four.Disc;
 import com.github.dmitry_mingazov.connect_four.Player;
 
+/**
+ * Automated player, which can use different strategies
+ */
 public class BotPlayer implements Player {
     private String playerName;
     private Disc disc;
@@ -14,11 +17,6 @@ public class BotPlayer implements Player {
         this.playerName = playerName;
         this.disc = disc;
         this.strategy = null;
-    }
-
-    @Override
-    public String getPlayerName(){
-        return this.playerName;
     }
 
     @Override

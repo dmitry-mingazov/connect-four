@@ -7,11 +7,14 @@ import com.github.dmitry_mingazov.connect_four.players.InteractivePlayer;
 import com.github.dmitry_mingazov.connect_four.players.PlayerFactory;
 import com.github.dmitry_mingazov.connect_four.views.ConsoleView;
 
+/**
+ * Define and let a game start
+ */
 public class ConsoleMatch {
     public static void main(String args[]){
 
         Board board = new StandardBoard();
-        Player player1 = PlayerFactory.getPlayer("MARIO ROSSO", Disc.RED);
+        Player player1 = PlayerFactory.getPlayer("INTERACTIVE PLAYER", Disc.RED);
         Player player2 = PlayerFactory.getPlayer("Bot", Disc.YELLOW);
         player2.setStrategy(new GreedyStrategy());
 

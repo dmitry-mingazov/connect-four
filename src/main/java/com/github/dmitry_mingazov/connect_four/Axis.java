@@ -1,5 +1,9 @@
 package com.github.dmitry_mingazov.connect_four;
 
+/**
+ * Axes that represent the different lines where the discs can be placed
+ * to form a winning row
+ */
 public enum Axis {
     VERTICAL,
     HORIZONTAL,

@@ -9,6 +9,9 @@ import com.github.dmitry_mingazov.connect_four.exceptions.IllegalMoveException;
 import java.util.Arrays;
 import java.util.EnumSet;
 
+/**
+ * Classic 7x6 connect four board
+ */
 public class StandardBoard implements Board {
     private Disc board[][];
     private int height;

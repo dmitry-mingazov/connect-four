@@ -2,6 +2,10 @@ package com.github.dmitry_mingazov.connect_four.players;
 
 import com.github.dmitry_mingazov.connect_four.*;
 
+/**
+ * Player which represent a physical player, uses interaction to
+ * play
+ */
 public class InteractivePlayer implements Player {
     private Disc disc;
     private String playerName;
@@ -19,11 +23,6 @@ public class InteractivePlayer implements Player {
     @Override
     public boolean isBot(){
         return false;
-    }
-
-    @Override
-    public String getPlayerName(){
-        return playerName;
     }
 
     @Override

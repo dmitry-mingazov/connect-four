@@ -6,6 +6,9 @@ import com.github.dmitry_mingazov.connect_four.Model;
 import com.github.dmitry_mingazov.connect_four.Player;
 import com.github.dmitry_mingazov.connect_four.exceptions.IllegalMoveException;
 
+/**
+ * Model of a classic game, with 2 players
+ */
 public class StandardModel extends Model {
     private Board board;
     private Player players[];

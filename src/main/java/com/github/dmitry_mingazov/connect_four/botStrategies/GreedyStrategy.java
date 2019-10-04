@@ -5,6 +5,10 @@ import com.github.dmitry_mingazov.connect_four.exceptions.IllegalMoveException;
 
 import java.util.EnumSet;
 
+/**
+ * Basic strategy which decides the move according to what it is the best
+ * move in that exact moment
+ */
 public class GreedyStrategy implements BotStrategy {
     private final int winningMove = 10000;
     private final int denyingWinningMove = 9999;

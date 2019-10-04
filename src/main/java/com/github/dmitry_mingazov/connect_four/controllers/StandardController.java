@@ -5,6 +5,9 @@ import com.github.dmitry_mingazov.connect_four.Model;
 import com.github.dmitry_mingazov.connect_four.Player;
 import com.github.dmitry_mingazov.connect_four.exceptions.IllegalMoveException;
 
+/**
+ * Standard controller, let the players play until one of them wins
+ */
 public class StandardController implements Controller {
     private Model model;
 

@@ -1,5 +1,9 @@
 package com.github.dmitry_mingazov.connect_four;
 
+/**
+ * Define the 8 direction where the axes can point to and provide
+ * methods to walk recursively these directions
+ */
 public enum Direction {
     NORTH,
     NORTH_EAST,

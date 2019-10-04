@@ -1,6 +1,5 @@
 import com.github.dmitry_mingazov.connect_four.boards.StandardBoard;
 import org.junit.Test;
-import org.junit.runner.JUnitCore;
 import static org.junit.Assert.assertTrue;
 
 
