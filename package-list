@@ -1,0 +1,8 @@
+com.github.dmitry_mingazov.connect_four
+com.github.dmitry_mingazov.connect_four.boards
+com.github.dmitry_mingazov.connect_four.botStrategies
+com.github.dmitry_mingazov.connect_four.controllers
+com.github.dmitry_mingazov.connect_four.exceptions
+com.github.dmitry_mingazov.connect_four.models
+com.github.dmitry_mingazov.connect_four.players
+com.github.dmitry_mingazov.connect_four.views
